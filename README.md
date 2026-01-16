@@ -47,15 +47,15 @@ Engine: Godot Engine
 Linguagem: GDScript
 
 📁 Estrutura do Projeto
-runic-valley/
-├── scenes/          # Cenas do jogo
-├── scripts/         # Scripts GDScript
-├── assets/          # Assets do jogo
-│   ├── sprites/     # Imagens e sprites
-│   ├── audio/       # Sons e músicas
-│   └── fonts/       # Fontes
-├── addons/          # Plugins do Godot
-├── project.godot    # Arquivo do projeto
+runic-valley/ \
+├── scenes/          # Cenas do jogo \
+├── scripts/         # Scripts GDScript \
+├── assets/          # Assets do jogo \
+│     ├── sprites/     # Imagens e sprites \
+│     ├── audio/       # Sons e músicas \
+│     └── fonts/       # Fontes \
+├── addons/          # Plugins do Godot \
+├── project.godot    # Arquivo do projeto \
 └── README.md
 
 "Em Runic Valley, os ecos do passado nunca morrem... eles apenas esperam."
